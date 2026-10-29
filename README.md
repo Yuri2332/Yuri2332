@@ -15,11 +15,22 @@
 
 **PT-BR**
 
-Desenvolvedor interessado em criar soluções de software, automações e ferramentas práticas. Meus projetos exploram desenvolvimento web, processamento de dados, segurança defensiva, inteligência artificial local e integração com hardware.
+Desenvolvedor interessado em criar soluções de software, automações e ferramentas práticas. Meus projetos exploram desenvolvimento web, segurança defensiva, inteligência artificial local e integração com hardware.
 
 **EN**
 
-Developer interested in building software solutions, automation systems, and practical tools. My projects explore web development, data processing, defensive security, local AI, and hardware integration.
+Developer interested in building software solutions, automation systems, and practical tools. My projects explore web development, defensive security, local AI, and hardware integration.
+
+---
+
+## `> Áreas de interesse | Areas of interest`
+
+- Desenvolvimento de aplicações web
+- Automação de processos e workflows
+- Segurança defensiva e análise de projetos autorizados
+- Inteligência artificial local
+- Integração entre software e hardware
+- Bancos de dados e APIs
 
 ---
 
@@ -33,25 +44,24 @@ Developer interested in building software solutions, automation systems, and pra
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=FF1E1E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF1E1E)
 ![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF1E1E)
-![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF1E1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=FF1E1E)
 ![C%23](https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=csharp&logoColor=FF1E1E)
 
-### Frameworks & Backend
+### Frameworks e Backend | Frameworks & Backend
 
 ![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=FF1E1E)
 ![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=FF1E1E)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=FF1E1E)
 ![Vite](https://img.shields.io/badge/Vite-0D0D0D?style=for-the-badge&logo=vite&logoColor=FF1E1E)
 
-### Databases & Tools
+### Bancos de dados e ferramentas | Databases & Tools
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=FF1E1E)
 ![SQLite](https://img.shields.io/badge/SQLite-0D0D0D?style=for-the-badge&logo=sqlite&logoColor=FF1E1E)
 ![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=FF1E1E)
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FF1E1E)
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF1E1E)
-![Arduino](https://img.shields.io/badge/ESP32%20%2F%20IoT-0D0D0D?style=for-the-badge&logo=arduino&logoColor=FF1E1E)
+![ESP32](https://img.shields.io/badge/ESP32%20%2F%20IoT-0D0D0D?style=for-the-badge&logo=espressif&logoColor=FF1E1E)
 
 </div>
 
@@ -85,7 +95,7 @@ Developer interested in building software solutions, automation systems, and pra
 
 **EN:** Local tool for defensive reviews of authorized projects, including configuration, potential exposed credentials, and dependency checks.
 
-`Python` `FastAPI` `SQLite` `Alembic` `Security`
+`Python` `FastAPI` `SQLite` `Alembic`
 
 ---
 
@@ -95,7 +105,7 @@ Developer interested in building software solutions, automation systems, and pra
 
 **EN:** Local PC monitoring project with an agent, dashboard, and LilyGO T-Display-S3 hardware integration.
 
-`Python` `HTML` `JavaScript` `CSS` `ESP32-S3` `PlatformIO`
+`Python` `HTML` `JavaScript` `ESP32-S3` `PlatformIO`
 
 ---
 
@@ -113,11 +123,11 @@ Developer interested in building software solutions, automation systems, and pra
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuri2332&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF1E1E&icon_color=FF1E1E&text_color=B3B3B3)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Yuri2332&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF1E1E&icon_color=FF1E1E&text_color=B3B3B3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri2332&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF1E1E&text_color=B3B3B3)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Yuri2332&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF1E1E&text_color=B3B3B3)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yuri2332&hide_border=true&background=0D0D0D&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yuri2332&hide_border=true&background=0D0D0D&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777)](https://git.io/streak-stats)
 
 </div>
 
