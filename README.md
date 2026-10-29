@@ -1,214 +1,142 @@
-<!--
-README de perfil de Yuri2332
-Estética: Dark / Cyberpunk / Hacker
-Idioma: Português + English
--->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:FF1E1E&height=200&section=header&text=Yuri2332&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Development%20%7C%20Automation%20%7C%20Technology&descSize=16&descAlignY=55)
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:101B36,100:00F5FF&height=200&section=header&text=Yuri2332&fontSize=58&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=CODE%20%7C%20AUTOMATION%20%7C%20INNOVATION&descSize=15&descAlignY=60" width="100%" alt="Yuri2332 — Cyberpunk profile banner"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF1E1E&center=true&vCenter=true&width=800&lines=Full+Stack+Development;Python+%7C+TypeScript+%7C+JavaScript;Automation+%26+Workflow+Systems;Cybersecurity+%7C+IoT+%7C+Local+AI)](https://git.io/typing-svg)
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Construindo+ideias+em+c%C3%B3digo;Building+ideas+with+code;Automation+%7C+Full+Stack+%7C+Local+AI;Exploring+software+%2B+hardware" alt="Animated introduction"/>
-
-  <br/>
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=Yuri2332&style=flat-square&color=00F5FF&label=PROFILE+VIEWS)
-  ![GitHub followers](https://img.shields.io/github/followers/Yuri2332?style=flat-square&color=FF00C8&label=FOLLOWERS)
-  ![GitHub stars](https://img.shields.io/github/stars/Yuri2332?style=flat-square&color=00F5FF&label=STARS)
+[![GitHub followers](https://img.shields.io/github/followers/Yuri2332?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B0000)](https://github.com/Yuri2332?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Yuri2332?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=FF1E1E)](https://github.com/Yuri2332?tab=repositories)
 
 </div>
 
 ---
 
-## `> whoami`
+## `> Sobre mim | About me`
 
-### 🇧🇷 Português
+**PT-BR**
 
-Olá! Sou **Yuri**, desenvolvedor de projetos práticos envolvendo software, automação e tecnologia.
+Desenvolvedor interessado em criar soluções de software, automações e ferramentas práticas. Meus projetos exploram desenvolvimento web, processamento de dados, segurança defensiva, inteligência artificial local e integração com hardware.
 
-Gosto de transformar ideias em aplicações funcionais, explorando diferentes linguagens, ferramentas e integrações. Meus projetos incluem plataformas de automação, aplicações web full stack, ferramentas de análise defensiva, inteligência artificial local e monitoramento de hardware.
+**EN**
 
-Meu foco é aprender construindo, experimentar soluções e evoluir continuamente através de projetos reais.
-
-### 🇺🇸 English
-
-Hi! I'm **Yuri**, a developer building practical projects involving software, automation, and technology.
-
-I enjoy turning ideas into functional applications while exploring different programming languages, tools, and integrations. My projects include workflow automation, full-stack web applications, defensive analysis tools, local AI, and hardware monitoring.
-
-My focus is on learning by building, experimenting with solutions, and continuously improving through hands-on projects.
+Developer interested in building software solutions, automation systems, and practical tools. My projects explore web development, data processing, defensive security, local AI, and hardware integration.
 
 ---
 
-## `> areas_of_interest`
+## `> Tecnologias | Tech Stack`
 
 <div align="center">
 
-| 🧩 Área / Area | 🔍 Foco / Focus |
-|:---|:---|
-| **Full Stack Development** | Web applications, APIs and integrations |
-| **Automation** | Visual workflows and automated tasks |
-| **Defensive Security** | Local analysis and secure development practices |
-| **Local AI** | Local models and AI-powered applications |
-| **Hardware & IoT** | ESP32, system monitoring and firmware integration |
-| **Data & Persistence** | SQL databases and application storage |
+### Linguagens | Languages
+
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF1E1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=FF1E1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF1E1E)
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF1E1E)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF1E1E)
+![C++](https://img.shields.io/badge/C%2B%2B-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=FF1E1E)
+![C%23](https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=csharp&logoColor=FF1E1E)
+
+### Frameworks & Backend
+
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=FF1E1E)
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=FF1E1E)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=FF1E1E)
+![Vite](https://img.shields.io/badge/Vite-0D0D0D?style=for-the-badge&logo=vite&logoColor=FF1E1E)
+
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=FF1E1E)
+![SQLite](https://img.shields.io/badge/SQLite-0D0D0D?style=for-the-badge&logo=sqlite&logoColor=FF1E1E)
+![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=FF1E1E)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FF1E1E)
+![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF1E1E)
+![Arduino](https://img.shields.io/badge/ESP32%20%2F%20IoT-0D0D0D?style=for-the-badge&logo=arduino&logoColor=FF1E1E)
 
 </div>
 
 ---
 
-## `> tech_stack`
+## `> Projetos em destaque | Featured Projects`
 
-### Languages / Linguagens
+### 🔴 [AutoFlow](https://github.com/Yuri2332/AutoFlow)
+
+**PT:** MVP SaaS para criação de fluxos visuais e automações, com foco na execução de workflows e integração entre serviços.
+
+**EN:** SaaS MVP for visual workflows and automation, focused on workflow execution and service integrations.
+
+`TypeScript` `React` `Node.js` `SQLite` `PostgreSQL`
+
+---
+
+### 🔴 [GameTracker](https://github.com/Yuri2332/GameTracker)
+
+**PT:** Aplicação para organizar uma biblioteca de jogos, registrar sessões, definir metas e acompanhar estatísticas.
+
+**EN:** Application for organizing a game library, tracking sessions, setting goals, and monitoring statistics.
+
+`Python` `FastAPI` `SQLAlchemy` `Alembic` `React` `Vite`
+
+---
+
+### 🔴 [SecureScan](https://github.com/Yuri2332/SecureScan)
+
+**PT:** Ferramenta local para revisão defensiva de projetos autorizados, com análise de configurações, possíveis credenciais expostas e dependências.
+
+**EN:** Local tool for defensive reviews of authorized projects, including configuration, potential exposed credentials, and dependency checks.
+
+`Python` `FastAPI` `SQLite` `Alembic` `Security`
+
+---
+
+### 🔴 [PC Monitor ESP32](https://github.com/Yuri2332/pc-monitor-esp32)
+
+**PT:** Projeto de monitoramento local de PC com agente, dashboard e integração com hardware LilyGO T-Display-S3.
+
+**EN:** Local PC monitoring project with an agent, dashboard, and LilyGO T-Display-S3 hardware integration.
+
+`Python` `HTML` `JavaScript` `CSS` `ESP32-S3` `PlatformIO`
+
+---
+
+### 🔴 [EndoCare2026](https://github.com/Yuri2332/EndoCare2026)
+
+**PT:** Projeto em TypeScript com componentes de aplicação, API local e funcionalidades documentadas de chatbot com integração a modelos locais.
+
+**EN:** TypeScript project with application components, a local API, and documented chatbot features integrating local models.
+
+`TypeScript` `Node.js` `Python` `Qwen` `Ollama` `Supabase`
+
+---
+
+## `> GitHub Stats`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,cpp,cs&theme=dark" alt="Programming languages"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuri2332&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF1E1E&icon_color=FF1E1E&text_color=B3B3B3)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri2332&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF1E1E&text_color=B3B3B3)
 
-### Frameworks, databases & tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,postgres,sqlite,supabase,git,github,vite,arduino&theme=dark" alt="Frameworks and development tools"/>
-
-</div>
-
-**Tecnologias documentadas nos projetos / Technologies documented in projects:**
-
-`Python` · `TypeScript` · `JavaScript` · `React` · `Node.js` · `FastAPI` · `Vite` · `SQLAlchemy` · `Alembic` · `PostgreSQL` · `SQLite` · `Supabase` · `Ollama / Qwen` · `PlatformIO` · `ESP32-S3` · `GitHub Actions`
-
-> **Nota / Note:** As tecnologias acima refletem informações declaradas no perfil e documentadas nos projetos. A presença de uma tecnologia não representa, por si só, um nível específico de proficiência.
->
-> The technologies above reflect information declared in the profile and documented in the repositories. Their presence does not, by itself, indicate a specific proficiency level.
-
----
-
-## `> featured_projects`
-
-### ⚡ AutoFlow
-
-**Visual Workflow Automation · SaaS**
-
-Plataforma de automação com editor visual, execução de fluxos no servidor, histórico de execuções, autenticação e integrações HTTP/Discord.
-
-A workflow automation platform featuring a visual editor, server-side execution, execution history, authentication, and HTTP/Discord integrations.
-
-**Stack:** `TypeScript` `React` `Node.js` `SQLite` `PostgreSQL`
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=080B12)](https://github.com/Yuri2332/AutoFlow)
-
----
-
-### 🎮 GameTracker
-
-**Game Library & Activity Tracking**
-
-Aplicação para organizar bibliotecas de jogos, sessões, metas e estatísticas, com frontend web e API backend.
-
-An application for organizing game libraries, play sessions, goals, and statistics, with a web frontend and backend API.
-
-**Stack:** `Python` `FastAPI` `SQLAlchemy` `React` `Vite`
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-FF00C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuri2332/GameTracker)
-
----
-
-### 🛡️ SecureScan
-
-**Defensive Project Analysis**
-
-Ferramenta local para revisar projetos autorizados, identificar padrões de risco em configurações e dependências e gerar relatórios de análise.
-
-A local tool for reviewing authorized projects, identifying potentially risky configuration and dependency patterns, and generating analysis reports.
-
-**Stack:** `Python` `FastAPI` `SQLite` `Alembic`
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=080B12)](https://github.com/Yuri2332/SecureScan)
-
----
-
-### 🖥️ PC Monitor ESP32
-
-**Hardware Monitoring · ESP32-S3 · IoT**
-
-Sistema de monitoramento local que conecta métricas do computador a um agente, um dashboard web e um dispositivo ESP32-S3.
-
-A local monitoring system connecting computer metrics to an agent, a web dashboard, and an ESP32-S3 device.
-
-**Stack:** `Python` `HTML` `JavaScript` `CSS` `PlatformIO` `ESP32-S3`
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-FF00C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuri2332/pc-monitor-esp32)
-
----
-
-### 🤖 EndoCare2026
-
-**Local AI · Web Application**
-
-Aplicação com frontend, backend local, chat EndoBot, integração com Qwen/Ollama e suporte opcional a serviços de voz.
-
-An application featuring a frontend, local backend, EndoBot chat, Qwen/Ollama integration, and optional voice services.
-
-**Stack:** `TypeScript` `Node.js` `Python` `Ollama / Qwen` `Supabase`
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=080B12)](https://github.com/Yuri2332/EndoCare2026)
-
----
-
-<div align="center">
-
-[**Explore all public repositories / Explorar todos os repositórios**](https://github.com/Yuri2332?tab=repositories)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yuri2332&hide_border=true&background=0D0D0D&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777)
 
 </div>
 
 ---
 
-## `> github_stats`
+## `> Objetivo | Goal`
 
-<div align="center">
+**PT-BR:** Continuar desenvolvendo projetos que combinem código, automação e soluções práticas, evoluindo por meio de experimentação, documentação e melhoria contínua.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuri2332&show_icons=true&hide_border=true&bg_color=080B12&title_color=00F5FF&icon_color=FF00C8&text_color=E5E7EB&ring_color=00F5FF" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri2332&layout=compact&hide_border=true&bg_color=080B12&title_color=00F5FF&text_color=E5E7EB" alt="Most used programming languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Yuri2332&hide_border=true&background=080B12&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=8B949E" alt="GitHub contribution streak"/>
-
-</div>
-
-> Os cartões de estatísticas dependem de serviços externos e podem apresentar limitações de disponibilidade, cache ou acesso aos dados.
->
-> These statistics cards rely on external services and may be affected by availability, caching, or data access limitations.
-
----
-
-## `> current_mission`
-
-🇧🇷 **Construir. Testar. Aprender. Evoluir.**
-
-🇺🇸 **Build. Test. Learn. Evolve.**
-
-Cada projeto é uma oportunidade de explorar novas ideias, desenvolver habilidades e criar soluções úteis.
-
-Every project is an opportunity to explore new ideas, develop skills, and build useful solutions.
+**EN:** Keep building projects that combine code, automation, and practical solutions, improving through experimentation, documentation, and continuous learning.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:101B36,100:080B12&height=100&section=footer" width="100%" alt="Cyberpunk footer"/>
+### `SYSTEM STATUS: BUILDING`
 
-**`[ SYSTEM ONLINE ]`**
+*Code. Test. Improve. Repeat.*
 
-<sub>Designed with code, curiosity, and a cyberpunk mindset.</sub>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,50:8B0000,100:0D0D0D&height=120&section=footer)
 
 </div>
-
----
-
-## ♟️ Tabuleiro de xadrez jogável
-
-Clique no tabuleiro para abrir a versão interativa no Lichess:
-
-[![Tabuleiro de xadrez na posição inicial](https://raw.githubusercontent.com/Yuri2332/Yuri2332/main/chess-board.svg)](https://lichess.org/analysis)
