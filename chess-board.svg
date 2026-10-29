@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Tabuleiro de xadrez na posição inicial</title>
+  <rect width="512" height="512" rx="20" fill="#111827"/>
+  <g><rect x="32" y="16" width="56" height="56" fill="#f0d9b5"/><rect x="88" y="16" width="56" height="56" fill="#b58863"/><rect x="144" y="16" width="56" height="56" fill="#f0d9b5"/><rect x="200" y="16" width="56" height="56" fill="#b58863"/><rect x="256" y="16" width="56" height="56" fill="#f0d9b5"/><rect x="312" y="16" width="56" height="56" fill="#b58863"/><rect x="368" y="16" width="56" height="56" fill="#f0d9b5"/><rect x="424" y="16" width="56" height="56" fill="#b58863"/><rect x="32" y="72" width="56" height="56" fill="#b58863"/><rect x="88" y="72" width="56" height="56" fill="#f0d9b5"/><rect x="144" y="72" width="56" height="56" fill="#b58863"/><rect x="200" y="72" width="56" height="56" fill="#f0d9b5"/><rect x="256" y="72" width="56" height="56" fill="#b58863"/><rect x="312" y="72" width="56" height="56" fill="#f0d9b5"/><rect x="368" y="72" width="56" height="56" fill="#b58863"/><rect x="424" y="72" width="56" height="56" fill="#f0d9b5"/><rect x="32" y="128" width="56" height="56" fill="#f0d9b5"/><rect x="88" y="128" width="56" height="56" fill="#b58863"/><rect x="144" y="128" width="56" height="56" fill="#f0d9b5"/><rect x="200" y="128" width="56" height="56" fill="#b58863"/><rect x="256" y="128" width="56" height="56" fill="#f0d9b5"/><rect x="312" y="128" width="56" height="56" fill="#b58863"/><rect x="368" y="128" width="56" height="56" fill="#f0d9b5"/><rect x="424" y="128" width="56" height="56" fill="#b58863"/><rect x="32" y="184" width="56" height="56" fill="#b58863"/><rect x="88" y="184" width="56" height="56" fill="#f0d9b5"/><rect x="144" y="184" width="56" height="56" fill="#b58863"/><rect x="200" y="184" width="56" height="56" fill="#f0d9b5"/><rect x="256" y="184" width="56" height="56" fill="#b58863"/><rect x="312" y="184" width="56" height="56" fill="#f0d9b5"/><rect x="368" y="184" width="56" height="56" fill="#b58863"/><rect x="424" y="184" width="56" height="56" fill="#f0d9b5"/><rect x="32" y="240" width="56" height="56" fill="#f0d9b5"/><rect x="88" y="240" width="56" height="56" fill="#b58863"/><rect x="144" y="240" width="56" height="56" fill="#f0d9b5"/><rect x="200" y="240" width="56" height="56" fill="#b58863"/><rect x="256" y="240" width="56" height="56" fill="#f0d9b5"/><rect x="312" y="240" width="56" height="56" fill="#b58863"/><rect x="368" y="240" width="56" height="56" fill="#f0d9b5"/><rect x="424" y="240" width="56" height="56" fill="#b58863"/><rect x="32" y="296" width="56" height="56" fill="#b58863"/><rect x="88" y="296" width="56" height="56" fill="#f0d9b5"/><rect x="144" y="296" width="56" height="56" fill="#b58863"/><rect x="200" y="296" width="56" height="56" fill="#f0d9b5"/><rect x="256" y="296" width="56" height="56" fill="#b58863"/><rect x="312" y="296" width="56" height="56" fill="#f0d9b5"/><rect x="368" y="296" width="56" height="56" fill="#b58863"/><rect x="424" y="296" width="56" height="56" fill="#f0d9b5"/><rect x="32" y="352" width="56" height="56" fill="#f0d9b5"/><rect x="88" y="352" width="56" height="56" fill="#b58863"/><rect x="144" y="352" width="56" height="56" fill="#f0d9b5"/><rect x="200" y="352" width="56" height="56" fill="#b58863"/><rect x="256" y="352" width="56" height="56" fill="#f0d9b5"/><rect x="312" y="352" width="56" height="56" fill="#b58863"/><rect x="368" y="352" width="56" height="56" fill="#f0d9b5"/><rect x="424" y="352" width="56" height="56" fill="#b58863"/><rect x="32" y="408" width="56" height="56" fill="#b58863"/><rect x="88" y="408" width="56" height="56" fill="#f0d9b5"/><rect x="144" y="408" width="56" height="56" fill="#b58863"/><rect x="200" y="408" width="56" height="56" fill="#f0d9b5"/><rect x="256" y="408" width="56" height="56" fill="#b58863"/><rect x="312" y="408" width="56" height="56" fill="#f0d9b5"/><rect x="368" y="408" width="56" height="56" fill="#b58863"/><rect x="424" y="408" width="56" height="56" fill="#f0d9b5"/></g>
+  <text x="17" y="44" text-anchor="middle" dominant-baseline="central" class="coord">8</text>
+  <text x="17" y="100" text-anchor="middle" dominant-baseline="central" class="coord">7</text>
+  <text x="17" y="156" text-anchor="middle" dominant-baseline="central" class="coord">6</text>
+  <text x="17" y="212" text-anchor="middle" dominant-baseline="central" class="coord">5</text>
+  <text x="17" y="268" text-anchor="middle" dominant-baseline="central" class="coord">4</text>
+  <text x="17" y="324" text-anchor="middle" dominant-baseline="central" class="coord">3</text>
+  <text x="17" y="380" text-anchor="middle" dominant-baseline="central" class="coord">2</text>
+  <text x="17" y="436" text-anchor="middle" dominant-baseline="central" class="coord">1</text>
+  <text x="60" y="491" text-anchor="middle" dominant-baseline="central" class="coord">a</text>
+  <text x="116" y="491" text-anchor="middle" dominant-baseline="central" class="coord">b</text>
+  <text x="172" y="491" text-anchor="middle" dominant-baseline="central" class="coord">c</text>
+  <text x="228" y="491" text-anchor="middle" dominant-baseline="central" class="coord">d</text>
+  <text x="284" y="491" text-anchor="middle" dominant-baseline="central" class="coord">e</text>
+  <text x="340" y="491" text-anchor="middle" dominant-baseline="central" class="coord">f</text>
+  <text x="396" y="491" text-anchor="middle" dominant-baseline="central" class="coord">g</text>
+  <text x="452" y="491" text-anchor="middle" dominant-baseline="central" class="coord">h</text>
+  <g font-family="DejaVu Sans, 'Noto Sans Symbols 2', serif" font-size="42" font-weight="600">
+    <text x="60" y="44" text-anchor="middle" dominant-baseline="central" class="piece black">♜</text>
+<text x="60" y="100" text-anchor="middle" dominant-baseline="central" class="piece black">♟</text>
+<text x="60" y="380" text-anchor="middle" dominant-baseline="central" class="piece white">♙</text>
+<text x="60" y="436" text-anchor="middle" dominant-baseline="central" class="piece white">♖</text>
+<text x="116" y="44" text-anchor="middle" dominant-baseline="central" class="piece black">♞</text>
+<text x="116" y="100" text-anchor="middle" dominant-baseline="central" class="piece black">♟</text>
+<text x="116" y="380" text-anchor="middle" dominant-baseline="central" class="piece white">♙</text>
+<text x="116" y="436" text-anchor="middle" dominant-baseline="central" class="piece white">♘</text>
+<text x="172" y="44" text-anchor="middle" dominant-baseline="central" class="piece black">♝</text>
+<text x="172" y="100" text-anchor="middle" dominant-baseline="central" class="piece black">♟</text>
+<text x="172" y="380" text-anchor="middle" dominant-baseline="central" class="piece white">♙</text>
+<text x="172" y="436" text-anchor="middle" dominant-baseline="central" class="piece white">♗</text>
+<text x="228" y="44" text-anchor="middle" dominant-baseline="central" class="piece black">♛</text>
+<text x="228" y="100" text-anchor="middle" dominant-baseline="central" class="piece black">♟</text>
+<text x="228" y="380" text-anchor="middle" dominant-baseline="central" class="piece white">♙</text>
+<text x="228" y="436" text-anchor="middle" dominant-baseline="central" class="piece white">♕</text>
+<text x="284" y="44" text-anchor="middle" dominant-baseline="central" class="piece black">♚</text>
+<text x="284" y="100" text-anchor="middle" dominant-baseline="central" class="piece black">♟</text>
+<text x="284" y="380" text-anchor="middle" dominant-baseline="central" class="piece white">♙</text>
+<text x="284" y="436" text-anchor="middle" dominant-baseline="central" class="piece white">♔</text>
+<text x="340" y="44" text-anchor="middle" dominant-baseline="central" class="piece black">♝</text>
+<text x="340" y="100" text-anchor="middle" dominant-baseline="central" class="piece black">♟</text>
+<text x="340" y="380" text-anchor="middle" dominant-baseline="central" class="piece white">♙</text>
+<text x="340" y="436" text-anchor="middle" dominant-baseline="central" class="piece white">♗</text>
+<text x="396" y="44" text-anchor="middle" dominant-baseline="central" class="piece black">♞</text>
+<text x="396" y="100" text-anchor="middle" dominant-baseline="central" class="piece black">♟</text>
+<text x="396" y="380" text-anchor="middle" dominant-baseline="central" class="piece white">♙</text>
+<text x="396" y="436" text-anchor="middle" dominant-baseline="central" class="piece white">♘</text>
+<text x="452" y="44" text-anchor="middle" dominant-baseline="central" class="piece black">♜</text>
+<text x="452" y="100" text-anchor="middle" dominant-baseline="central" class="piece black">♟</text>
+<text x="452" y="380" text-anchor="middle" dominant-baseline="central" class="piece white">♙</text>
+<text x="452" y="436" text-anchor="middle" dominant-baseline="central" class="piece white">♖</text>
+  </g>
+  <style>
+    .coord { fill: #d1d5db; font: 600 13px Arial, sans-serif; }
+    .piece.black { fill: #17202c; stroke: #f4e4c9; stroke-width: .6px; paint-order: stroke; }
+    .piece.white { fill: #fffaf0; stroke: #4b3825; stroke-width: 1.2px; paint-order: stroke; }
+  </style>
+</svg>
