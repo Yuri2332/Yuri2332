@@ -1,4 +1,3 @@
-```markdown
 <!--
 README de perfil de Yuri2332
 Estética: Dark / Cyberpunk / Hacker
@@ -205,4 +204,11 @@ Every project is an opportunity to explore new ideas, develop skills, and build 
 <sub>Designed with code, curiosity, and a cyberpunk mindset.</sub>
 
 </div>
-```
+
+---
+
+## ♟️ Tabuleiro de xadrez jogável
+
+Clique no tabuleiro para abrir a versão interativa no Lichess:
+
+[![Tabuleiro de xadrez na posição inicial](https://raw.githubusercontent.com/Yuri2332/Yuri2332/main/chess-board.svg)](https://lichess.org/analysis)
